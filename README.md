@@ -7,6 +7,5 @@ You can search model from timm
 
 
 ![graph](https://user-images.githubusercontent.com/97486738/197976222-0bbc7fa9-1768-4161-ad2d-06dcc5ef2c5c.png)
-
 and make network image with torchviz. This model is VGG16.
 
